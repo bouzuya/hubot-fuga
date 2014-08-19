@@ -2,6 +2,8 @@
 
 A Hubot script that respond fuga or poyo
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140819/20140819224923.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-fuga.git
