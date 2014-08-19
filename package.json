@@ -1,6 +1,6 @@
 {
   "name": "hubot-fuga",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that respond fuga or poyo",
   "main": "index.coffee",
   "scripts": {
